@@ -1,29 +1,35 @@
-$celefetch
 
-
-
-ㅤ                                       @@&(((##((/#/@@                                        About
-                                        @@/(######(////#(/,,@#                                    ------    
-                                     @(//((@(**//@((((/,......%                                    Uptime: 19 years
-                                   @/(#(@*@**/@&**,,***,,....,..@                                  Languages: python
-                                  //##(/,***@*@,,,,*/**. .,,.... @/                                OS: Linux Mint
-                                 ,#%%(/(/***,,,,****//*,.....     @                                Editor: VSCode
-                                @#%&&(((//,**,***,*/****,,....    .,                               Hobby: Gaming
-                                (#%&&##((@,////*&,,*(****.,,,,.  .*%                                
-                                 .#&&&&#(/*//#@@@.,,,,*,,.....#. ,,,                                
-                                  .@(%%&%(//,,.*       ,(##/   .,.@                                 
-                                     ,*@****/***.    ,  @.@ /  ,/,                                  
-                                         *,#@@@,*,,%@@,*@ ...* @@        ,                          
-                                      @,/((//****,&/,... #            /(#/,                        Contact 
-                                     @*/(&**,,#(///**,... &         .,.(#,.                        ------- 
-                                     %(((//,@(##%//((*,...&,,*. ,/.    (                           Email: robochitti236@gmail.com
-                                     %/@/(/*@/####((,,.,, /#(##(*.. *   ,                           
-                                       @(////*/(####/,,,/    *%(/*.,,*/#/.                          
-                                       *.,   *(@#((*#@/. (           (@*,.                          
-                                        ,,%,  ,,,     /.*                                           
-                                         */(*.#//@.    ,,,                                          
-                                         .(.*.***@.     %,#/                                        
-                                             @ (,#.     ,**,.                                       
-                                              ****      ,&(/.                                       
-                                            ,(/(*       .((((@.                                     
-                                             *,,...@      ,@*,* %                                   
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNX0OkxxxxxkO0XWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNKxol:;;;;;;;;;;:ldOXWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW          About
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWKxoc;;;;;::cccccclodxddkXWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW          -----
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWN0dlcll:;;cllcccclldxO0XX0dd0WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW          Uptime: 19 years
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWKdcclc:cclllc:coddddkO0KKKXKkoONWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW          Language: Python
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNOlcc::ldddl::lxOOOOkxkO0KKKKKX0oxXWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW          OS: Linux Mint
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNkcc;,:oxkkdllxO000OOxdx0XXKKKXXX0dxNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW          Editor: VSCode
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW0l;'.;loddxxkOOOOkkkxddx0XXXXXXNNNOoOWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW          Hobby: Gaming
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWXd:,..,::coxkkkOkkkxxxddxO0XXKXNNNNXdxNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWKd:'..',,:oxddddxkOkxxdxxxO0000KNNNNxdXWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWKdc'..',;:clcclloxOkkxoddxkO00OOKXNNxdXWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWN0o;....,:ooc:ccllllolcloodxkOkxxkkkldXWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWKxc,...,codxk0OkOxxxddolll::lllc::ckWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNKxl:;:loddxOxONWWWWNKKK0dd0K00xcoKWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW          Contact
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWN0kdolloddddk00KXKK0OdkK0OOxlckWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW          -------
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNX0kollllcllcccllllloddddddxONWWNX0OO0NWWWWWWWWWWWWWWWWWWWWWWWW          Email: robochitti236@gmail.com
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWXOxdlodxxxddoolllldxxxxkOKXNWWWWXkollox0NWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNxoolokOkxdoodxkkkOKXNX0KWWWWWWWWKxolldOXNWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW0lc:cdOkxd:;;codddk0XNXxxKXKKKXNWNXKkOXNWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW0c:::oddlc;,;cllldO0KXOlododO0OOOXWN0KWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNklccoddclc;;:llox0KK0doxc;:oxOOO00Ok0NWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNOccodlcol:;;:clxO0OdxKN0dccldOOxxxxkXWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWXdlxdokxc;'',;:loodkKNWWWX0OOXN0doxOXNWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWKkxxKWKkdloxOO0kkKK0XWWWWWWWWWWNK0KNWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWX0kdxOkxkkONWWWXOOOx0NWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWXOdooolloodKWWWW0kkdxXWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWN0kxxkkxdoONWWWWXOxx0NWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWX0Okxxx0NWWWWNOdxkKWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNXKxoxkXWWWWWNOlclkNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWOlld0NWWWWWWKl:cdKWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWKocokKXNNWWWWXkodxO0KNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNkoxxkkkxkKNWWNXOkkOOk0NWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNX000OkxxOXWWWWWWNXKKKXWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+                                            
