@@ -9,5 +9,5 @@ Hobby: Gaming    <br/>
 
 Contact
 -------
-Email: robochitti236@gmail.com
-Telegram: https://t.me/psychoboy536
+Email: robochitti236@gmail.com       <br/>
+Telegram: https://t.me/psychoboy536  <br/>
