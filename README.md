@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @robochitti236
-- 👀 I’m interested in python...
-- 🌱 I’m currently learning python...
-- 💞️ I’m looking to collaborate on python...
-- 📫 How to reach me robochitti236@gmail.com...
-
-<!---
-robochitti236/robochitti236 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   ㅤ                                       @@&(((##((/#/@@                                        About
+                                        @@/(######(////#(/,,@#                                    ------    
+                                     @(//((@(**//@((((/,......%                                    Uptime: 19 years
+                                   @/(#(@*@**/@&**,,***,,....,..@                                  Languages: python
+                                  //##(/,***@*@,,,,*/**. .,,.... @/                                OS: Linux Mint
+                                 ,#%%(/(/***,,,,****//*,.....     @                                Editor: VSCode
+                                @#%&&(((//,**,***,*/****,,....    .,                               Hobby: Gaming
+                                (#%&&##((@,////*&,,*(****.,,,,.  .*%                                
+                                 .#&&&&#(/*//#@@@.,,,,*,,.....#. ,,,                                
+                                  .@(%%&%(//,,.*       ,(##/   .,.@                                 
+                                     ,*@****/***.    ,  @.@ /  ,/,                                  
+                                         *,#@@@,*,,%@@,*@ ...* @@        ,                          
+                                      @,/((//****,&/,... #            /(#/,                        Contact 
+                                     @*/(&**,,#(///**,... &         .,.(#,.                        ------- 
+                                     %(((//,@(##%//((*,...&,,*. ,/.    (                           Email: robochitti236@gmail.com
+                                     %/@/(/*@/####((,,.,, /#(##(*.. *   ,                           
+                                       @(////*/(####/,,,/    *%(/*.,,*/#/.                          
+                                       *.,   *(@#((*#@/. (           (@*,.                          
+                                        ,,%,  ,,,     /.*                                           
+                                         */(*.#//@.    ,,,                                          
+                                         .(.*.***@.     %,#/                                        
+                                             @ (,#.     ,**,.                                       
+                                              ****      ,&(/.                                       
+                                            ,(/(*       .((((@.                                     
+                                             *,,...@      ,@*,* %                                   
