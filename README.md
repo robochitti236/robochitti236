@@ -1,7 +1,7 @@
 About
 -----
 Name: 01100001 01110010 01110101 01101110 <br/>
-Uptime: 19 years <br/>
+Uptime: 20 years <br/>
 Language: Python <br/>
 OS: Linux Mint   <br/>
 Editor: VSCode   <br/>
